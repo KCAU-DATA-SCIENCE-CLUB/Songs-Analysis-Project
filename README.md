@@ -20,3 +20,10 @@
 
 ### 4. Original Dataset 
 - The original Dataset from kaggle is found here.
+  
+## Objectives of the Project
+- Analyze trends in audio features to understand popular song characteristics.
+- Compare song popularity across different music platforms.
+- Study the relationship between artist attributes and song success  
+- ldentify changes in music attributes and preferences over time. 
+- Investigate song performance across various streaming services.
